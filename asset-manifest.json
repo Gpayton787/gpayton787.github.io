@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7606552.css",
-    "main.js": "/static/js/main.5c249b3d.js",
+    "main.css": "/static/css/main.0b6609d2.css",
+    "main.js": "/static/js/main.f3b4fefb.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/photo2.png": "/static/media/photo2.1786373a38cb1b5b95a2.png",
+    "static/media/grass.png": "/static/media/grass.6ee5b74acc0cc304a873.png",
     "static/media/hike.JPG": "/static/media/hike.a71e60cbd0d43daf3378.JPG",
-    "static/media/me2.JPG": "/static/media/me2.aedddb22839b9ac20d60.JPG",
+    "static/media/royce.png": "/static/media/royce.4b5a313259211e2537b0.png",
+    "static/media/leaf.jpeg": "/static/media/leaf.8975cb216c8cf1a0ac95.jpeg",
     "static/media/peach.png": "/static/media/peach.58ad18694c900081ac20.png",
     "static/media/snorlax.gif": "/static/media/snorlax.0b6aee731f083ee437ff.gif",
     "static/media/ucla2.gif": "/static/media/ucla2.b7bfef7430ba3964535c.gif",
     "static/media/studdybuddy1.png": "/static/media/studdybuddy1.b94878a1ee4cf7cca977.png",
     "static/media/studybuddy2.png": "/static/media/studybuddy2.d9d5bc63bb8796032946.png",
     "static/media/tennis.gif": "/static/media/tennis.8b67bfe8ab073d5764f4.gif",
+    "static/media/gmail.png": "/static/media/gmail.5b90cbece85a85d77896.png",
     "static/media/arrow1.png": "/static/media/arrow1.9edfd30de83ab8492410.png",
     "index.html": "/index.html",
-    "main.d7606552.css.map": "/static/css/main.d7606552.css.map",
-    "main.5c249b3d.js.map": "/static/js/main.5c249b3d.js.map",
+    "main.0b6609d2.css.map": "/static/css/main.0b6609d2.css.map",
+    "main.f3b4fefb.js.map": "/static/js/main.f3b4fefb.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7606552.css",
-    "static/js/main.5c249b3d.js"
+    "static/css/main.0b6609d2.css",
+    "static/js/main.f3b4fefb.js"
   ]
 }

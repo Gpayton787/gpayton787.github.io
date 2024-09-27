@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gpayton787.github.io/sitemap.xml

@@ -1,25 +1,16 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: WhatsBruin
+description: A full-stack web application that enables UCLA students to get the most our of their dining hall experience.
+img: assets/img/wb.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Link: [whats-bruin.com](https://www.whats-bruin.com/)
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+How it works
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -33,7 +24,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    At UCLA we are blessed with "The nation's best dining hall food". But there's one problem: the menu's are constantly changing and I won't know the next time they're serving their mouthwatering Lemon Blueberry Bread. That's why WB allows you to search from a database of all dishes that UCLA has to offer.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

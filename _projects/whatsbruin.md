@@ -14,14 +14,22 @@ Link: [whats-bruin.com](https://www.whats-bruin.com/)
 **Contributors**: Gregory Payton, Heran Yang, Haoji Wang, Ethan peng, Jimmy Hou
 
 ## Purpose
+
 At UCLA we are privileged to have some of the best dining halls in the nation. This also means that the menus are extensive and change constantly (Tragic, I know). If you have a favorite food, you'll often be wondering the next time it'll be served. Instead of checking the menu daily, which gets tedious during busy times like finals weeks, WhatsBruin can check for you and send you email reminders! Currently, WhatsBruin has over 40 active users.
 
 ### Additional features
+
 - An upvote system
 - Ability to search for any UCLA dining food with advanced filters
 - Sorting by varioius metrics: popularity, upvotes, grams of protein, etc.
 
+## Technologies Used
+
+**Frontend:** NextJS, Tailwind CSS
+**Backend:** Firebase, Python, Google Cloud Functions
+
 ## How it works
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/wb_diagram.png" title="wb_diagram" class="img-fluid rounded z-depth-1" %}

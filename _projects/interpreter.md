@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Brewin Interpreter
-description: An interpreter written in python for a brand new programming language called Brewin
+description: An interpreter written in Python for a brand new programming language called Brewin
 img: assets/img/interpreterv4.png
 importance: 2
 category: work

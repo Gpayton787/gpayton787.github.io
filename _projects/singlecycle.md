@@ -17,6 +17,9 @@ related_publications: false
 ## Overview
 This is the first project in the class ECE-M116 Computer Systems Architecture. In this project, we were tasked with designing and implementing a single-cycle processor for the RISCV-32 [ISA](#background-information). This process begins with a design of the data path & controller, followed by the implementation of the design in C++. 
 
+**Date completed**: October 2024
+**Contributors**: Gregory Payton 
+
 ## Background Information
 This section serves to provide some necessary background knowledge to readers who are not familiar with the material. 
 - A **processor**, also known as a CPU, is a hardware unit that executes instructions for your computer. Every program that runs on your computer is eventually boiled down into a set of assembly instructions that the hardware understands. This set of instructions is called the **Instruction Set Architecture (ISA)**, and it serves as an interface between your computer's software and hardware

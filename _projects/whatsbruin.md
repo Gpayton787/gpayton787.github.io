@@ -7,7 +7,11 @@ importance: 1
 category: work
 related_publications: false
 ---
+
 Link: [whats-bruin.com](https://www.whats-bruin.com/)
+
+**Date completed**: October 2024
+**Contributors**: Gregory Payton, Heran Yang, Haoji Wang, Ethan peng, Jimmy Hou
 
 ## Purpose
 At UCLA we are privileged to have some of the best dining halls in the nation. This also means that the menus are extensive and change constantly (Tragic, I know). If you have a favorite food, you'll often be wondering the next time it'll be served. Instead of checking the menu daily, which gets tedious during busy times like finals weeks, WhatsBruin can check for you and send you email reminders! Currently, WhatsBruin has over 40 active users.

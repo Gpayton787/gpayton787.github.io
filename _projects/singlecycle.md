@@ -2,7 +2,7 @@
 layout: page
 title: Single-Cycle Processor Simulator
 description: A C++ program that simulates a single-cycle processor for the RISC-V32 ISA
-img: assets/img/singlecycle.png
+img: assets/img/singlecyclediagram.png
 importance: 4
 category: work
 related_publications: false

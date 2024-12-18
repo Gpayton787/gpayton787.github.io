@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interpreter
+title: Brewin Interpreter
 description: An interpreter written in python for a brand new programming language called Brewin
 img: assets/img/interpreter_diagram2.png
 importance: 2

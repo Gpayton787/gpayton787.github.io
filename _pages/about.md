@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi I'm Greg! I'm a senior at UCLA studying computer science. My favorite topic in computer science is object-oriented programming as it naturally breaks up large and complex systems into self contained objects, making them much easier to understand and expand.
 
-Upon graduation, I plan to work in industry, applying and developing my skills to help build software or hardware solutions. I'm also interested in life sciences and will be concurrently pursuing a full-time job and later, a career in dentistry, as I finish up my undergrad.
+Upon graduation, I plan to work in industry, applying and developing my skills to help build software or hardware solutions.
 
 If I had to describe myself with one attribute it would be family-oriented. Nothing beats a bunch of snacks and a movie night with the fam!
 

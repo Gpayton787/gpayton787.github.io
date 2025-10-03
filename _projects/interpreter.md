@@ -29,12 +29,6 @@ As part of the fall offering of CS131 at UCLA, professor Carey Nachenberg has de
 
 Each languages support its own set of features and paradigms. This diagram made by a TA shows how each language is related:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/venn.png" title="wb_diagram" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 ## Background Knowledge
 
 After writing a program in your chosen language, you need to somehow execute it. The two main ways to do so are with an interpreter or a compiler.

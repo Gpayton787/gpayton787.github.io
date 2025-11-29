@@ -8,7 +8,9 @@ category: work
 related_publications: false
 ---
 
-Link: [whats-bruin.com](https://www.whats-bruin.com/)
+Link: ~~whats-bruin.com~~ 
+
+*Due to the web-scraping nature of this application, we had a dependency on the layout of the UCLA dining website page. After they decided to revamp their website, our webscraping logic became obsolete. Thus, the decision was made to retire the project. Thank you to all of our 50+ users!
 
 **Date completed**: October 2024
 **Contributors**: Gregory Payton, Heran Yang, Haoji Wang, Ethan peng, Jimmy Hou

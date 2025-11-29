@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Los Angeles, CA
+subtitle: Los Angeles, CA ☀️
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_v2.jpeg
   image_circular: true # crops the image to make it circular
   more_info: >
 
@@ -15,9 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi I'm Greg! I'm a senior at UCLA studying computer science. My interests lie in building and scaling robust distributed systems and writing clean, maintainable code. Upon graduation, I plan to work in industry, applying and developing my skills to help build software or hardware solutions.
+Hi I'm Greg! I'm a senior at UCLA studying computer science. My interests are in software engineering principles that allow for complex systems to arise: object oriented programming, proper API design, scalability, and well-written documentation. These things are critical as you start to increase the number of uniquely-minded engineers working together. I also have an keen interest in computer architecture design for more efficient CPUs, GPUs, or custom ASICs.
 
-In my free time, I like to keep myself moving with Calisthenics and Running. One of my favorite things to do when bored is to run around the city to whatever cool spots I can find. Often times it'll be a park where I can practice muscle ups, handstands, and work on progressing to a front lever. I also really love cooking for my friends and family. My speciality is [Moussaka](https://www.google.com/search?q=moussaka+&sca_esv=2bd7f66af8684dc4&rlz=1C5CHFA_enUS934US934&sxsrf=AE3TifOP3U4ZfQY1Qp1gARsoLVZxiRP-3w%3A1759099700988&ei=NLvZaKaPPMnykPIPr47gAQ&ved=0ahUKEwim-bSGxfyPAxVJOUQIHS8HOAAQ4dUDCBA&uact=5&oq=moussaka+&gs_lp=Egxnd3Mtd2l6LXNlcnAiCW1vdXNzYWthIDIKECMYgAQYJxiKBTIKECMYgAQYJxiKBTIQEC4YgAQYsQMYQxiDARiKBTIIEAAYgAQYyQMyCxAAGIAEGJIDGIoFMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI4ARQZVhlcAF4AZABAJgBP6ABP6oBATG4AQPIAQD4AQGYAgKgAkfCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR5gDAIgGAZAGCZIHATKgB8QOsgcBMbgHQ8IHAzAuMsgHBQ&sclient=gws-wiz-serp) which I can make vegan or non-vegan depending on the guests.
+**Extra Extra Read All About It** 🗞️
+
+Some more about me. I was born and raised in the great state of Oklahoma. Moving around quite often, I currently reside among the rainy fir trees in Washington state (with my parents, for now).
+
+In my free time, I stay moving with various activities such as basketball, running, or working out. I also really love to explore new places. Had I lived during the [Age of Exploration](https://en.wikipedia.org/wiki/Age_of_Discovery), I surely would've captained my own ship.
 
 
 

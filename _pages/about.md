@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi I'm Greg! I'm a senior at UCLA studying computer science. My interests are in the software engineering principles that allow for complex systems to arise. Software is like a giant, living piece of art with thousands of different components created by potentially, thousands of different artists, at different times. But unlike art, it serves a practical purpose and it actually has to work. For this to happen, proper rules and interfaces have to be set, documentation has to be written, tools have to be picked, and the list goes on. Important principles and abstractions, developed only in the last few decades, underpin all the software we see today and they are constantly evolving, making this field incredibly fascinating. Upon graduation in 2026, I plan to work in industry as a software engineer, creating high-quality software that produces value for someone, whoever it may be.
+Hi I’m Greg! I’m a senior at UCLA studying computer science. My interests are in software engineering principles that allow for complex systems to arise: object oriented programming, proper API design, scalability, well-written documentation, and more. These things are critical as you start to increase the number of uniquely-minded engineers working together. I also have an keen interest in computer architecture design for more efficient CPUs, GPUs, or custom ASIC. Upon graduation I plan to work in the software industry, delivering high-quality, impactful code.
 
 **More about me** 
 

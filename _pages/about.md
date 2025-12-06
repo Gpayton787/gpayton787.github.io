@@ -19,7 +19,7 @@ Hi I’m Greg! I’m a senior at UCLA studying computer science. My interests ar
 
 **More about me** 
 
-I was born and raised in the great state of Oklahoma. Moving around quite often, I currently reside in Washington state, and go to school in California. In my free time, I like to keep myself moving by playing basketball, running, or working out. I also love to explore new places. Whether it's new restaraunts, hiking trails, or study spots, my apartment is the last place I want to be when there's so much out there just waiting for me! This curiosity of the unknown drives me to keep pushing my own boundaries and continue learning more about myself and the world, each and every day.
+I was born and raised in the great state of Oklahoma. Moving around quite often, I currently reside in Washington state, and go to school in California. In my free time, I like to keep myself moving by playing basketball, running, or working out. I also love to explore new places. Whether it's new restaraunts, hiking trails, or study spots, my apartment is the last place I want to be when there's so much out there just waiting for me! This curiosity of the unknown drives me to keep pushing my own boundaries and continue learning more about myself and the world, each and every day... well, most days.
 
 
 

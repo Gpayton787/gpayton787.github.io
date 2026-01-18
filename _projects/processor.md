@@ -2,7 +2,7 @@
 layout: page
 title: Out-of-order Processor
 description: An out-of-order processor written in Verilog for the RISC-V ISA
-img: assets/img/oopdesign.png
+img: assets/img/main_oop.jpg
 importance: 3
 category: work
 related_publications: false

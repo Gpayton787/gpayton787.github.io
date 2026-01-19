@@ -22,14 +22,13 @@ published: false
 
 ## How it went
 
-I joined a team of three that would end up becoming some of my best friends. We named our team "degenerative-ai" and we got to work on buildling our web server and meeting every week. Each week we rotated the position of tech lead, updated our documentation, built out new features, and added unit and integration tests. This was as close as I'd ever been to the actual software development process in industry and it was very efficient and sustainable. In the end completed our web server on time and build a web application on top of our web server for our final project. My teammate Ryan Tang won an award for "Most lines of code commited" and I won an award for "Most comments given as TL". Overall, this was my favorite class I've ever taken at UCLA and I learned so much from the experience of the lecturers and my own experience with my team.
+I joined a team of three that would end up becoming some of my best friends. We named our team "degenerative-ai" and we got to work on buildling our web server and meeting every week. Each week we rotated the position of tech lead (TL), updated our documentation, built out new features, and added unit and integration tests. This was as close as I'd ever been to the actual software development process in industry and it was very efficient and sustainable. In the end, we completed our web server on time and built a fun web application on top of our web server for our final project. My teammate, Ryan Tang, won an award for "Most lines of code committed" and I won an award for "Most comments given as TL". Overall, this was my favorite class I've ever taken at UCLA and I learned so much from the experience of the lecturers (Alex, Michael, and Philo) and my own experience with my team (Ryan O, Ryan T, and Jarod).
 
 ## What I learned
 
-
 ### 👨‍💻 Acting as TL: The Art of Code Review
 
-I loved being the TL. 
+I loved being the TL.
 
 ### 📝 Documentaiton and Extensibility
 
@@ -41,7 +40,7 @@ Everything interacts with each other through interfaces. How they're defined is 
 
 ### ⏱️ How To Save Your Precious Time: Attention to Detail and Proper Testing
 
-Early on, a few Subtleties would ultimately lead to lots of debugging later on down the line. 
+Early on, a few subtleties would ultimately lead to lots of debugging later on down the line. 
 
 These would have been caught with proper integration testing. 
 1) Test large request

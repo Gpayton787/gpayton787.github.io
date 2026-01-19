@@ -11,11 +11,11 @@ published: true
 
 ## Overview
 
-In GeoGUESSR you're dropped into a street view of a random place and tasked with determing where on earth you are by analyzing your surroundings. In a similar fashion, CountryGUESSR gives you a random fact about a random country, and the player tries to guess the country in the least amount of facts possible. Which country is boasts over 60% of the worlds lakes? Which countries national animal is the unicorn? Test and expand your world knowledge with CountryGUESSR!
+In GeoGUESSR you're dropped into a street view of a random place and tasked with determing where on earth you are by analyzing your surroundings. In a similar fashion, CountryGUESSR gives you a random fact about a random country, and you try to guess the country in the least amount of facts possible. Which country boasts over 60% of the worlds lakes? Which countries national animal is the unicorn? Test and expand your world knowledge with CountryGUESSR!
 
 ### How to Play
 
-{% include video.liquid path="assets/video/cg.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+{% include video.liquid path="assets/video/cg.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
 Important things to know:
 * Facts are associated with a country, a difficulty value, and a category. Facts are shown in order of decreasing difficulty. The earlier you guess the country, the more difficult the fact, and the more points you earn.
 * Difficulties range from 0.0 to 10.0 with 10.0 being the most difficult.

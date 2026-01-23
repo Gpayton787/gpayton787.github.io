@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CountryGUESSR
-description: Inspired by the famous geography guessing game GeoGUESSR, take your world knowledge to the next level with CountryGUESSR.
+description: Inspired by the famous geography guessing game GeoGUESSR, take your world knowledge to the next level with CountryGUESSR
 img: assets/img/countryguessr.png
 importance: 2
 category: work
